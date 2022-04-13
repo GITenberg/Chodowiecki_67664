@@ -1,0 +1,61 @@
+_repo: Chodowiecki_67664
+_version: 0.0.1
+contributor:
+  artist:
+    agent_name: Chodowiecki, Daniel
+    aliases:
+    - Chodowiecki, Daniel Nicolaus
+    - Chodowiecki, D. N. (Daniel Nicolaus)
+    - Chodowiecki, Daniel Nikolaus
+    - Chodoviecki
+    birthdate: 1726
+    deathdate: 1801
+    gutenberg_agent_id: '54407'
+    url: http://www.gutenberg.org/2009/agents/54407
+    wikipedia:
+    - https://de.wikipedia.org/wiki/Daniel_Chodowiecki
+    - https://en.wikipedia.org/wiki/Daniel_Chodowiecki
+creator:
+  author:
+    agent_name: Kaemmerer, Ludwig
+    alias: Kaemmerer, Ludwig Joachim Karl
+    birthdate: 1862
+    deathdate: 1938
+    gutenberg_agent_id: '54383'
+    url: http://www.gutenberg.org/2009/agents/54383
+  editor:
+    agent_name: Knackfuss, H. (Hermann)
+    aliases:
+    - Knackfuss, Hermann
+    - Knackfuß, Hermann
+    birthdate: 1848
+    deathdate: 1915
+    gutenberg_agent_id: '37412'
+    url: http://www.gutenberg.org/2009/agents/37412
+    wikipedia:
+    - https://de.wikipedia.org/wiki/Hermann_Knackfu%C3%9F
+    - https://en.wikipedia.org/wiki/Hermann_Knackfuss
+description: ''
+gutenberg_issued: '2022-03-20'
+identifiers:
+  gutenberg: '67664'
+  lccn: '01013150'
+language: de
+pgterms:marc904: https://archive.org/details/chodowiecki00kaemuoft
+pgterms:marc905: 20200627074500kaemmerer
+pgterms:marc906: '1897'
+pgterms:marc907: de
+production_note: Peter Becker, Reiner Ruf, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: Germany :Velhagen & Klasing,1897.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: 'Künstler-Monographien: XXI'
+subjects:
+- !lcsh 'Chodowiecki, Daniel, 1726-1801'
+- !lcc 'NE'
+- GITenberg
+title: Chodowiecki
+url: http://www.gutenberg.org/ebooks/67664
