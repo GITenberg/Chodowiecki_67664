@@ -15,6 +15,9 @@ contributor:
     wikipedia:
     - https://de.wikipedia.org/wiki/Daniel_Chodowiecki
     - https://en.wikipedia.org/wiki/Daniel_Chodowiecki
+covers:
+- cover_type: archival
+  image_path: 67664-h/images/cover.jpg
 creator:
   author:
     agent_name: Kaemmerer, Ludwig
@@ -36,6 +39,8 @@ creator:
     - https://de.wikipedia.org/wiki/Hermann_Knackfu%C3%9F
     - https://en.wikipedia.org/wiki/Hermann_Knackfuss
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67664#Chodowiecki
 gutenberg_issued: '2022-03-20'
 identifiers:
   gutenberg: '67664'
